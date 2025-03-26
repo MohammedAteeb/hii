@@ -1,4 +1,4 @@
-package skilltest3.hii;
+
 class student_enroll{
     String name="student1";
     String Course="cs";
