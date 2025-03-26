@@ -3,7 +3,7 @@ pipeline{
     stages{
         stage('clone repository'){
             steps{
-                git branch: 'main' , url: "https://github.com/SidduGogi/skilltest2.git"
+                git branch: 'main' , url: "https://github.com/MohammedAteeb/hii.git"
             }
         }
         stage('compile java'){
